@@ -1,4 +1,4 @@
-# Stardalization-from-scratch
+# Standardization-from-scratch
 
 This is an example of how to perform a standardization without performing very complex procedures.
 
